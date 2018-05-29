@@ -1,2 +1,2 @@
-# hakareru
-HAKARERU専用アプリ
+# js-test-games
+JavaScriptの勉強のためのテスト用アプリ
